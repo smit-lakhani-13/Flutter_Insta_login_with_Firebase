@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "915127242995",
+    "project_id": "insta-login-f6435",
+    "storage_bucket": "insta-login-f6435.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915127242995:android:246e72e5e1b3fc168c2786",
+        "android_client_info": {
+          "package_name": "com.example.insta_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915127242995-eg8ik7udsac8falcdl5naf1f6p5ov19j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPfSiPGP_m5LjiKu0rp8D-A4wlKosa-3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915127242995-eg8ik7udsac8falcdl5naf1f6p5ov19j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
